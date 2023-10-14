@@ -1,6 +1,6 @@
 # Hi,I'm SEEMA K.R
 # medion
-- The medion.github.io is website where you can order and buy medicines online and provide fast delivery service.This web based application has been developed for accomplishment of Future ready Talent Intrenship program launched by Microsoft,Future Skills prime,Quess,github and EY.
+- The medion.github.io is website where you can order and buy medicines online and provide fast delivery.
 # project Link-https://agreeable-smoke-02d73e900.2.azurestaticapps.net
 # project Demo video - https://www.youtube.com/watch?v=hK4NvFjDrkU&t=1s
 # azure technologies used
